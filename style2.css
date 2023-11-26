@@ -50,6 +50,15 @@
 }
 
 
+form button{
+    margin-bottom: 1rem;
+}
+
+form a{
+    color: rgba(255, 255, 255, 0.63);
+}
+
+
 .container input{
     outline: none;
     background-color: transparent;
@@ -92,3 +101,6 @@ input::placeholder{
     background-color: #59ddb3;
     /* background-image: linear-gradient(to bottom right, #1f2f49, #343f4c );; */
 }
+
+
+
