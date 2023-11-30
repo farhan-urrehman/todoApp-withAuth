@@ -103,4 +103,18 @@ input::placeholder{
 }
 
 
+.social-btns{
+    /* background-color: red; */
+    width: 100%;
+    margin-top: 35px;
+}
+
+.social-btns i{
+    margin-right: 10px;
+}
+
+.social-btns i:hover{
+    cursor: pointer;
+    color: #59ddb3 !important;
+}
 
